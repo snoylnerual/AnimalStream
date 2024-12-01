@@ -1,0 +1,37 @@
+Class person mAP: 0.47904782083450115
+Class person Recall: 0.47904782083450115
+Class motorbike mAP: 0.0
+Class motorbike Recall: 0.0
+Class train mAP: 0.7143702651515151
+Class train Recall: 0.7143702651515151
+Class truck mAP: 0.3534121288870128
+Class truck Recall: 0.3534121288870128
+Class boat mAP: 0.36335200746965446
+Class boat Recall: 0.36335200746965446
+Class cat mAP: 0.18403076746455424
+Class cat Recall: 0.18403076746455424
+Class dog mAP: 0.13181985096802984
+Class dog Recall: 0.13181985096802984
+Class horse mAP: 0.2754096633925757
+Class horse Recall: 0.2754096633925757
+Class cow mAP: 0.2632686426648135
+Class cow Recall: 0.2632686426648135
+Class elephant mAP: 0.347968988205087
+Class elephant Recall: 0.347968988205087
+Class bear mAP: 0.0932091668582816
+Class bear Recall: 0.0932091668582816
+Class zebra mAP: 0.5055418613143715
+Class zebra Recall: 0.5055418613143715
+Class giraffe mAP: 0.5530375699440447
+Class giraffe Recall: 0.5530375699440447
+Class snowboard mAP: 0.3728360957642725
+Class snowboard Recall: 0.3728360957642725
+Class skateboard mAP: 0.7203829680020157
+Class skateboard Recall: 0.7203829680020157
+Class surfboard mAP: 0.36397963512940185
+Class surfboard Recall: 0.36397963512940185
+Class mouse mAP: 0.0
+Class mouse Recall: 0.0
+
+Total AP: 0.33656867247353717
+Total Recall: 0.33656867247353717
